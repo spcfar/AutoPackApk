@@ -1,5 +1,5 @@
 # AutoPackApk
-android app 多参数远程编译打包
+android app 多参数远程编译打包(仅提供思路,不开源)
 
 ## 安装linux系统
 
